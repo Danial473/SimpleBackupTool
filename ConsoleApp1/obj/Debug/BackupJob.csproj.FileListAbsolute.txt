@@ -1,0 +1,7 @@
+C:\Users\dparsa\source\repos\Backup\Backup\bin\Debug\BackupJob.exe
+C:\Users\dparsa\source\repos\Backup\Backup\bin\Debug\BackupJob.pdb
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\BackupJob.csprojAssemblyReference.cache
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\BackupJob.csproj.CoreCompileInputs.cache
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\BackupJob.csproj.CopyComplete
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\BackupJob.exe
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\BackupJob.pdb

@@ -1,0 +1,13 @@
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\Backup.exe
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\Backup.pdb
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dparsa\source\repos\Backup\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\dparsa\source\repos\Backup\Backup\bin\Debug\ConsoleApp1.exe
+C:\Users\dparsa\source\repos\Backup\Backup\bin\Debug\ConsoleApp1.pdb
