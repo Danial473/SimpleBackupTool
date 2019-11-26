@@ -1,2 +1,2 @@
 # SimpleBackupTool
-simple backup tool
+This is a simple backup tool which detects new files by comparing modification date of files vs last backup date. It copies files that their modification date is newer than last backup date to the target (back up) folder. This project consists of 2 parts. There is an admin windows wpf app for setting source and target path and also an exe file that you need to set to run using windows scheduler which is responsible for backing up.
